@@ -1,0 +1,11 @@
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\bin\Debug\VendaCarros.exe.config
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\bin\Debug\VendaCarros.exe
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\bin\Debug\VendaCarros.pdb
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\obj\Debug\VendaCarros.csproj.AssemblyReference.cache
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\obj\Debug\VendaCarros.csproj.SuggestedBindingRedirects.cache
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\obj\Debug\VendaCarros.Form1.resources
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\obj\Debug\VendaCarros.Properties.Resources.resources
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\obj\Debug\VendaCarros.csproj.GenerateResource.cache
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\obj\Debug\VendaCarros.csproj.CoreCompileInputs.cache
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\obj\Debug\VendaCarros.exe
+C:\Users\anderson.asantos55\source\repos\VendaCarros\VendaCarros\obj\Debug\VendaCarros.pdb
