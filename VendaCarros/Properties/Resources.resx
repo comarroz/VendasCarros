@@ -118,22 +118,31 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="conheca-opala-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\conheca-opala-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="24-kombi-pick-up-black-and-white" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\24-kombi-pick-up-black-and-white.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="opala projeto" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\opala projeto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="desktop-wallpaper-old-car-1960-muscle-cars" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\desktop-wallpaper-old-car-1960-muscle-cars.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="opcoes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\opcoes.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="24-kombi-pick-up-black-and-white" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\24-kombi-pick-up-black-and-white.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="conheca-opala-2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\conheca-opala-2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="desktop-wallpaper-old-car-1960-muscle-cars" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\desktop-wallpaper-old-car-1960-muscle-cars.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Atualizar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Atualizar.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="carroatualizar" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\carroatualizar.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="kombi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\kombi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chevette" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\chevette.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
