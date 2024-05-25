@@ -12,10 +12,10 @@ namespace VendaCarros
 {
     public partial class Form1 : Form
     {
-        Cadastar cad;
-        Consulta con;
-        Atualizar atu;
-        Excluir exc;
+       // Cadastar cad;
+       // Consulta con;
+       // Atualizar atu;
+      //  Excluir exc;
         Opcoes opc;
 
         public Form1()

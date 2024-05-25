@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace VendaCarros
 {
+   // Dao bd;
+
     public partial class Opcoes : Form
     {
 
@@ -21,9 +23,10 @@ namespace VendaCarros
         {
             InitializeComponent();
             cad = new Cadastar();
-            con = new Consulta();
+            
             atu = new Atualizar();
             exc = new Excluir();
+            //bd = new Dao();
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -34,7 +37,9 @@ namespace VendaCarros
 
         private void button2_Click(object sender, EventArgs e)
         {
+            con = new Consulta();
             con.ShowDialog();
+
 
         }//Fim do botão Consultar
 
